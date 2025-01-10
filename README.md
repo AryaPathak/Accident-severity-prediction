@@ -107,7 +107,7 @@ weighted avg       0.68      0.76      0.70     17463
 
 3. Run the preprocessing and training script:  
    ```bash  
-   python train_models.py  
+   python predict.ipynb
    ```  
 
 4. View the results and reports in the terminal output.  
